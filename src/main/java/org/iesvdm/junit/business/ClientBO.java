@@ -9,7 +9,7 @@ import org.iesvdm.junit.model.Product;
 
 /**
  * 
- * Esto es un mensaje para probar sincronización con git
+ * Esto es un mensaje para probar sincronización con git...
  */
 public interface ClientBO {
 
